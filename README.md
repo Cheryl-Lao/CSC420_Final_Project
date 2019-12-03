@@ -4,7 +4,7 @@ For our final project, we implemented the DnCNN architecture by Zhang et al. [1]
 
 **How to run**
 
-Load the .ipynb file into Gogole Colab.
+Load the .ipynb file into Google Colab.
 
 Run the main function. You must include root_dir as the first argument which is the root location of the dataset path. You may pass in optional arguments to the main function to override their default values:
 
