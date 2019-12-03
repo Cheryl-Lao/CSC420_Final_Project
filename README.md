@@ -16,7 +16,7 @@ Run the main function. You must include root_dir as the first argument which is 
 - augment=False
 - save=False
 - noise='gaussian'
-- filter'gaussian'
+- filter='gaussian'
 
 
 **References**
