@@ -8,15 +8,15 @@ Load the .ipynb file into Gogole Colab.
 
 Run the main function. You must include root_dir as the first argument which is the root location of the dataset path. You may pass in optional arguments to the main function to override their default values:
 
-• num_epochs=50
-• num_layers=17
-• num_channels=3
-• batch_size=1
-• lr=1r-3
-• augment=False
-• save=False
-• noise='gaussian'
-• filter'gaussian'
+- num_epochs=50
+- num_layers=17
+- num_channels=3
+- batch_size=1
+- lr=1r-3
+- augment=False
+- save=False
+- noise='gaussian'
+- filter'gaussian'
 
 
 **References**
